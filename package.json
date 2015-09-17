@@ -1,0 +1,16 @@
+{
+	"name": "Maganza",
+	"license": "MIT",
+	"author": "Luca Leone",
+	"version": "1.0.0",
+	"description": "MaganzaTeam",
+	"main": "main.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Leoluca88/Maganza.git"
+	},
+	"dependencies":{
+		"tabris": "1.2.0"
+	}
+	
+}

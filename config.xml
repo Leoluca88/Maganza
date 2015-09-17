@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding="utf-8"?>
+<widget 
+	id="it.wiplab"
+	version="1.0.0"
+	xmlns="http://phonegap.com/ns/1.0"
+	xmlns="http://www.w3.org/ns/widgets"
+	xmlns="http://cordova.apache.org/ns/1.0"
+>
+	<name>Maganza</name>
+	<description>MaganzaTeam</description>
+	<author email="contact@lucaleone.it" href="http://lucaleone.it">Luca Leone</author> 
+	<access origin="*"/>
+	<preference name="EnableDeveloperConsole" value="false"/>
+</widget> 
