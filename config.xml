@@ -4,11 +4,20 @@
 	version="1.0.0"
 	xmlns="http://phonegap.com/ns/1.0"
 	xmlns="http://www.w3.org/ns/widgets"
-	xmlns="http://cordova.apache.org/ns/1.0"
->
+	xmlns="http://cordova.apache.org/ns/1.0">
+	
 	<name>Maganza</name>
 	<description>MaganzaTeam</description>
 	<author email="contact@lucaleone.it" href="http://lucaleone.it">Luca Leone</author> 
 	<access origin="*"/>
 	<preference name="EnableDeveloperConsole" value="false"/>
+	
+	 <platform name="android">
+        <icon src="img/icone/drawable-mdpi/ic_launcher.png" density="mdpi" />
+        <icon src="img/icone/drawable-hdpi/ic_launcher.png" density="hdpi" />
+        <icon src="img/icone/drawable-xhdpi/ic_launcher.png" density="xhdpi" />
+        <icon src="img/icone/drawable-xxhdpi/ic_launcher.png" density="xxhdpi" />
+        <icon src="img/icone/drawable-xxxhdpi/ic_launcher.png" density="xxxhdpi" />
+    </platform>
+	
 </widget> 
